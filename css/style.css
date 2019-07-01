@@ -1,0 +1,68 @@
+body {
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#header {
+    background: url("background-gradient.jpg") no-repeat 0 0 #999966;
+    border-top: 3px solid #660000;
+    border-bottom: 3px solid #660000;
+}
+
+#header .introduction {
+    margin: 0 auto;
+    width: 85%;
+    min-height: 4em;
+    padding: 0.5em;
+}
+
+#header .english {
+    width: 30%;
+    min-width: 18em;
+    float: left;
+    text-align: left;
+    color: #660000;
+}
+
+#header .chinese {
+    float: left;
+    padding: 0 0 0 2.5em;
+}
+
+#body {
+    clear: both;
+    margin: 0 auto;
+    width: 85%;
+    background-color: #FFFFFF;
+}
+
+#body .content {
+    width: 30%;
+    min-width: 18em;
+    float: left;
+    text-align: left;
+}
+
+#body .connect {
+    width: 65%;
+    float:left;
+    padding: 1em 0 0 2em;
+    font-weight: bold;
+}
+
+/* Added settings for border/decoration/align/background to erase underline in Firefox (only). */
+#body .connect img {
+    margin: 0.3em 0 0.3em 0;
+    border:none;
+    text-decoration:none;
+    vertical-align:middle;
+    background: #FFFFFF;
+}
+
+img {
+    vertical-align: middle;
+    padding-right: 0.5em;
+    border-style: none;
+}
