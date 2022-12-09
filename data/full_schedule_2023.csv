@@ -50,8 +50,8 @@ TTH","4:00PM - 6:15PM
 10:50 AM
 10:10 AM","","*","Active","LEC","","","2022-06-13T13:09:39-04:00"
 "Computer Science",FA,"CS",100,A,100,4, 4,"SB 372","TTH","10:20AM - 12:00PM",,,Full,"SB","372","10:20 AM","100","12:00 PM","Creating Interactive Web Media","David Meyer","Active","LEC","","","2022-06-14T13:37:57-04:00"
-"Computer Science",FA,"CS",104,A,100,1, 2,"NH 064","MWF","2:45PM - 3:50PM",,,First,"NH","064","2:45 PM","65","3:50 PM","Applied Computing","Fernando Pasquini Santos","","LEC","","","2022-11-25T12:26:23-05:00"
-"Computer Science",FA,"CS",104,B,100,1, 2,"NH 064","MWF","2:45PM - 3:50PM",,,Second,"NH","064","2:45 PM","65","3:50 PM","Applied Computing ","Fernando Pasquini Santos","","LEC","","","2022-11-25T12:26:45-05:00"
+"Computer Science",FA,"CS",104,A,100,1, 2,"NH 253","MWF","2:45PM - 3:50PM",,,First,"NH","253","2:45 PM","65","3:50 PM","Applied Computing","Fernando Pasquini Santos","","","","","2022-12-09T17:38:02-05:00"
+"Computer Science",FA,"CS",104,B,100,1, 2,"NH 253","MWF","2:45PM - 3:50PM",,,Second,"NH","253","2:45 PM","65","3:50 PM","Applied Computing ","Fernando Pasquini Santos","","","","","2022-12-09T17:38:11-05:00"
 "Computer Science",FA,"CS",104L,A,100,1, 0.5,"SB 354","T","2:10PM - 3:50PM",,,First,"SB","354","2:10 PM","100","3:50 PM","Applied Computing","Christopher Wieringa","","LAB","","","2022-11-26T10:04:42-05:00"
 "Computer Science",FA,"CS",104L,B,100,1, 0.5,"SB 354","T","2:10PM - 3:50PM",,,Second,"SB","354","2:10 PM","100","3:50 PM","Applied Computing","Christopher Wieringa","","LAB","","","2022-11-26T10:04:54-05:00"
 "Computer Science",FA,"CS",106,A,100,4, 4,"NH 253","MWF","1:30PM - 2:35PM",,,Full,"NH","253","1:30 PM","65","2:35 PM","Intro to Sci Comp & Modeling","Kenneth C Arnold","","LEC","","","2022-11-25T12:14:54-05:00"
@@ -94,8 +94,8 @@ SB","382
 1:30 PM","65
 140","3:50 PM
 3:50 PM","Programming Lang Concepts","Cancelled","","LEC","","","2022-06-10T13:20:27-04:00"
-"Computer Science",SP,"CS",232,A,200,4, 4,"SB 382","MWF","8:00AM - 9:05AM",,,Full,"SB","382","8:00 AM","65","9:05 AM","Operating Systems and Networki","Victor T. Norman","Active","LEC","","","2022-06-14T14:42:32-04:00"
-"Computer Science",SP,"CS",232,B,200,4, 4,"SB 382","MWF","9:15AM - 10:20AM",,,Full,"SB","382","9:15 AM","65","10:20 AM","Operating Systems and Networki","Victor T. Norman","Active","LEC","","","2022-06-14T14:42:41-04:00"
+"Computer Science",SP,"CS",232,A,200,4, 4,"SB 343","MWF","8:00AM - 9:05AM",,,Full,"SB","343","8:00 AM","65","9:05 AM","Operating Systems and Networki","Victor T. Norman","","","","","2022-12-09T17:15:12-05:00"
+"Computer Science",SP,"CS",232,B,200,4, 4,"SB 343","MWF","9:15AM - 10:20AM",,,Full,"SB","343","9:15 AM","65","10:20 AM","Operating Systems and Networki","Victor T. Norman","","","","","2022-12-09T17:15:35-05:00"
 "Computer Science",FA,"CS",262,A,200,4, 4,"SB 354
 SB 382","F
 MW","1:30PM - 3:50PM
@@ -116,7 +116,7 @@ SB","372
 3:50 PM","Software Engineering","Keith VanderLinden","","LEC","","","2021-07-13T14:16:34-04:00"
 "Computer Science",FA,"CS",295,A,200,0, 0.5,"SB 010","T","3:05PM - 3:55PM",,,Full,"SB","010","3:05 PM","50","3:55 PM","Computing Seminar","Harry Plantinga","","SEM","","","2022-11-28T12:10:06-05:00"
 "Computer Science",SP,"CS",295,A,200,0, 0.5,"SB 010","T","3:05PM - 3:55PM",,,Full,"SB","010","3:05 PM","50","3:55 PM","Computing Seminar","Harry Plantinga","","SEM","","","2022-11-28T11:59:43-05:00"
-"Computer Science",FA,"CS",332,A,300,2, 2,"NH 064","MWF","9:15AM - 10:20AM",,,First,"NH","064","9:15 AM","65","10:20 AM","Web Development","Victor T. Norman","Active","LEC","","","2022-06-14T12:26:17-04:00"
+"Computer Science",FA,"CS",332,A,300,2, 2,"NH 064","MWF","9:15AM - 10:20AM",,,First,"NH","064","9:15 AM","65","10:20 AM","Advanced Networking","Victor T. Norman","","","","","2022-12-09T17:28:50-05:00"
 "Computer Science",SP,"CS",338,A,300,2, 2,"NH 064","MWF","9:15AM - 10:20AM",,,First,"NH","064","9:15 AM","65","10:20 AM","System Administration: Infrastructure","Christopher Wieringa","Active","LEC","","","2022-06-14T16:30:45-04:00"
 "Computer Science",SP,"CS",339,A,300,2, 2,"NH 064","MWF","9:15AM - 10:20AM",,,Second,"NH","064","9:15 AM","65","10:20 AM","System Administration: Cloud Services","Christopher Wieringa","Active","LEC","","","2022-06-14T16:30:45-04:00"
 "Computer Science",SP,"CS",354,A,300,2, 2,"NH 064","MWF","11:00AM - 12:05PM",,,Second,"NH","064","11:00 AM","65","12:05 PM","Database Management Systems","Patrick Bailey","","","","","2022-12-08T11:06:07-05:00"
@@ -124,8 +124,16 @@ SB","372
 Adam Vedra","Active","LEC","","","2022-06-14T10:45:02-04:00"
 "Computer Science",SP,"CS",372,A,300,2, 2,"NH 253","MWF","12:15PM - 1:20PM",,,First,"NH","253","12:15 PM","65","1:20 PM","Computer Graphics","Harry Plantinga","","","","","2022-12-08T11:10:34-05:00"
 "Computer Science",FA,"CS",374,A,300,2, 2,"NH 064","MWF","9:15AM - 10:20AM",,,Second,"NH","064","9:15 AM","65","10:20 AM","High-Performance Computing","Joel Adams","","","","","2022-12-08T10:43:25-05:00"
-"Computer Science",SP,"CS",375,A,300,2, 2,"NH 253","MWF","11:00AM - 12:05PM",,,First,"NH","253","11:00 AM","65","12:05 PM","Artificial Intelligence","Kenneth C Arnold","","","","","2022-12-08T11:11:03-05:00"
-"Computer Science",SP,"CS",376,A,300,2, 2,"SB 372","MWF","11:00AM - 12:05PM",,,Second,"SB","372","11:00 AM","65","12:05 PM","Machine Learning","Kenneth C Arnold","","","","","2022-12-08T11:11:25-05:00"
+"Computer Science",SP,"CS",375,A,300,2, 2,"NH 253","MWF","11:00AM - 12:05PM",,,First,"NH","253","11:00 AM","65","12:05 PM","Artificial Intelligence","Kenneth C Arnold","","","","","2022-12-09T17:48:01-05:00"
+"Computer Science",SP,"CS",376,A,300,2, 2,"NH 253
+NH 253","MWF
+MWF","11:00AM - 12:05PM
+11:00AM - 12:05PM",,,Second,"NH
+NH","253
+253","11:00 AM
+11:00 AM","65
+65","12:05 PM
+12:05 PM","Machine Learning","Kenneth C Arnold","","","","","2022-12-09T17:49:33-05:00"
 "Computer Science",FA,"CS",383,A,300,1, 0,"NH 253","T","6:30PM - 7:20PM",,,Full,"NH","253","6:30 PM","50","7:20 PM","Senior Internship in Computing","Keith VanderLinden","","INT","","","2022-11-28T12:10:58-05:00"
 "Computer Science",SP,"CS",383,A,300,1, 0,"NH 253","T","6:30PM - 7:20PM",,,Full,"NH","253","6:30 PM","50","7:20 PM","External Practicum","Keith VanderLinden","","INT","","","2022-11-28T12:11:10-05:00"
 "Computer Science",SP,"CS",384,A,300,4, 4,"HH 334","TTH","10:20AM - 12:00PM",,,Full,"HH","334","10:20 AM","100","12:00 PM","Perspectives on Computing","Derek C Schuurman","Active","LEC","","","2022-09-13T16:36:51-04:00"
@@ -148,7 +156,15 @@ Adam Vedra","Active","LEC","","","2022-06-14T10:45:02-04:00"
 "Computer Science",SP,"DATA",103,C,100,2, 2,"SB 372","TTH","2:10PM - 3:50PM",,,Second,"SB","372","2:10 PM","100","3:50 PM","Exploratory Data Science and Analytics","Brenda VanderLinden","Active","LEC","","","2022-09-13T16:18:33-04:00"
 "Computer Science",FA,"DATA",103,D,100,2, 2,"SB 372","TTH","6:30PM - 8:10PM",,,Second,"SB","372","6:30 PM","100","8:10 PM","Exploratory Data Science and Analytics","Jim Momeyer","Active","LEC","","","2022-09-13T16:13:35-04:00"
 "Computer Science",SP,"DATA",103,D,100,2, 2,"SB 372","TTH","6:30PM - 8:10PM",,,Second,"SB","372","6:30 PM","100","8:10 PM","Exploratory Data Science and Analytics","Jim Momeyer","Active","LEC","","","2022-09-13T16:18:38-04:00"
-"Computer Science",FA,"DATA",202,A,200,4, 4,"NH 253","MWF","8:00AM - 9:05AM",,,Full,"NH","253","8:00 AM","65","9:05 AM","Predictive Analytics","Kenneth C Arnold","Active","LEC","","","2022-06-14T13:36:15-04:00"
+"Computer Science",FA,"DATA",202,A,200,4, 4,"SB 372
+NH 253","MWF
+MWF","8:00AM - 9:05AM
+8:00AM - 9:05AM",,,Full,"SB
+NH","372
+253","8:00 AM
+8:00 AM","65
+65","9:05 AM
+9:05 AM","Predictive Analytics","Kenneth C Arnold","","","","","2022-12-09T17:36:37-05:00"
 "Computer Science",FA,"DATA",202,B,200,4, 4,"NH 253","MWF","9:15AM - 10:20AM",,,Full,"NH","253","9:15 AM","65","10:20 AM","Predictive Analytics","Fernando Pasquini Santos","","LEC","","","2022-11-25T12:06:59-05:00"
 "Computer Science",FA,"DATA",396,A,300,2, 0,"SB 382","T","6:30PM - 7:20PM",,,Full,"SB","382","6:30 PM","50","7:20 PM","Senior Project in Data Science","Kenneth C Arnold","","LEC","","","2022-11-25T16:03:13-05:00"
 "Computer Science",SP,"DATA",398,A,300,2, 0,"SB 382","T","6:30PM - 7:20PM",,,Full,"SB","382","6:30 PM","50","7:20 PM","Senior Project in Data Science II","Kenneth C Arnold","","LEC","","","2022-11-25T16:03:29-05:00"
@@ -161,20 +177,28 @@ Adam Vedra","Active","LEC","","","2022-06-14T10:45:02-04:00"
 "Computer Science",SP,"DATA",676,A,600,2, 2,"","","",,,Second,"","","","","","Deep Learning for Text and Generative Models","Kenneth C Arnold","","On-line","","","2022-11-24T12:40:54-05:00"
 "Computer Science",SU,"DATA",696,A,600,2, 2,"","","",,,Full,"","","","","","Project in Data Science","Staff","","On-line","","","2022-11-24T12:52:05-05:00"
 "Geography",SP,"GEO",566,A,500,5, 5,"","","",,,Full,"","","","","","Spatial Programming and Data Management ","Patrick Bailey","Active","LEC","","","2022-06-10T13:39:01-04:00"
-"Shadow",FA,"CS",S,332,,0, 0,"SB 354","MWF","9:15AM - 10:20AM",,,First,"SB","354","9:15 AM","65","10:20 AM","Web Development","Shadow-Gold","Active","LEC","","","2022-06-14T12:33:48-04:00"
-"Shadow",SP,"CS",S,338,,0, 0,"SB 354","MWF","9:15AM - 10:20AM",,,First,"SB","354","9:15 AM","65","10:20 AM","System Administration","Shadow-Maroon","Active","LEC","","","2022-06-14T13:20:07-04:00"
-"Shadow",SP,"CS",S,339,,0, 0,"SB 372","MWF","9:15AM - 10:20AM",,,Second,"SB","372","9:15 AM","65","10:20 AM","System Administration: Cloud Services","Shadow-Maroon","","","","","2022-12-08T10:42:18-05:00"
-"Shadow",FA,"CS",S,342,,0, 0,"SB 354","MWF","11:00AM - 12:05PM",,,First,"SB","354","11:00 AM","65","12:05 PM","Database Management Systems","Shadow-Gold","Active","LEC","","","2022-06-14T12:34:29-04:00"
-"Shadow",SP,"CS",S,345,,0, 0,"SB 372","MWF","11:00AM - 12:05PM",,,First,"SB","372","11:00 AM","65","12:05 PM","Artificial Intelligence","Shadow-Maroon","","","","","2022-12-08T10:42:40-05:00"
-"Shadow",SP,"CS",S,346,,0, 0,"NH 253","MWF","11:00AM - 12:05PM",,,Second,"NH","253","11:00 AM","65","12:05 PM","Machine Learning","Shadow-Maroon","Active","LEC","","","2022-09-13T16:37:21-04:00"
-"Shadow",SP,"CS",S,352,,0, 0,"SB 354","MWF","12:15PM - 1:20PM",,,First,"SB","354","12:15 PM","65","1:20 PM","Computer Graphics","Shadow-Gold","Active","LEC","","","2022-06-14T13:28:01-04:00"
-"Shadow",FA,"CS",S,374,,0, 0,"SB 354","MWF","9:15AM - 10:20AM",,,Second,"SB","354","9:15 AM","65","10:20 AM","High-Performance Computing","Shadow-Gold","","","","","2022-12-08T10:43:47-05:00"
-"Shadow",FA,"DATA",S,202,,0, 0,"SB 372
-SB 372","MWF
-MWF","8:00AM - 9:05AM
-9:15AM - 10:20AM",,,Full,"SB
-SB","372
-372","8:00 AM
+"Shadow",SP,"CS",339-S,A-S,300,0, 0,"SB 354","MWF","9:15AM - 10:20AM",,,Second,"SB","354","9:15 AM","65","10:20 AM","System Administration: Cloud Services","Shadow-Maroon","","","","","2022-12-09T17:46:16-05:00"
+"Shadow",SP,"CS",354-S,A-S,300,0, 0,"SB 372","MWF","11:00AM - 12:05PM",,,First,"SB","372","11:00 AM","65","12:05 PM","Database Management Systems","Shadow-Maroon","","","","","2022-12-09T18:10:48-05:00"
+"Shadow",FA,"CS",372-S,A-S,300,0, 0,"SB 354
+SB 354","MWF
+MWF","9:15AM - 10:20AM
+9:15AM - 10:20AM",,,First,"SB
+SB","354
+354","9:15 AM
 9:15 AM","65
-65","9:05 AM
-10:20 AM","","Shadow-Maroon","Active","LEC","","","2022-06-13T13:23:14-04:00"
+65","10:20 AM
+10:20 AM","Advanced Networking","Shadow-Gold","","","","","2022-12-09T17:29:13-05:00"
+"Shadow",SP,"CS",372-S,A-S,300,0, 0,"SB 354
+SB 372","MWF
+MWF","9:15AM - 10:20AM
+11:00AM - 12:05PM",,,First,"SB
+SB","354
+372","9:15 AM
+11:00 AM","65
+65","10:20 AM
+12:05 PM","Artificial Intelligence","Shadow-Maroon","","","","","2022-12-09T18:04:52-05:00"
+"Shadow",SP,"CS",372-S,A-S,300,0, 0,"SB 354","MWF","12:15PM - 1:20PM",,,First,"SB","354","12:15 PM","65","1:20 PM","Computer Graphics","Shadow-Gold","","","","","2022-12-09T18:07:07-05:00"
+"Shadow",FA,"CS",374-S,A-S,300,0, 0,"SB 354","MWF","9:15AM - 10:20AM",,,Second,"SB","354","9:15 AM","65","10:20 AM","High-Performance Computing","Shadow-Gold","","","","","2022-12-09T17:43:38-05:00"
+"Shadow",SP,"CS",3756-S,A-S,300,0, 0,"SB 372","MWF","11:00AM - 12:05PM",,,Second,"SB","372","11:00 AM","65","12:05 PM","Machine Learning","Shadow-Maroon","","","","","2022-12-09T18:06:45-05:00"
+"Shadow",FA,"DATA",202-S,A-S,200,0, 0,"SB 354","MWF","8:00AM - 9:05AM",,,Full,"SB","354","8:00 AM","65","9:05 AM","Predictive Analytics","Shadow-Maroon","","","","","2022-12-09T17:58:49-05:00"
+"Shadow",FA,"DATA",202-S,B-S,200,0, 0,"SB 372","MWF","9:15AM - 10:20AM",,,Full,"SB","372","9:15 AM","65","10:20 AM","Predictive Analytics","Shadow-Maroon","","","","","2022-12-09T18:02:46-05:00"
