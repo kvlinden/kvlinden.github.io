@@ -11,7 +11,7 @@ Department,Term,SubjectCode,CourseNum,SectionCode,CourseLevelCode,MinimumCredits
 "",FA,"",,,,0, 8,"","","",,,Full,"","","","","","","Kow Chuen Chang","","Kuiper Seminar","","","","2022-11-24T11:56:20-05:00"
 "",FA,"",,,,0, 1,"","","",,,Full,"","","","","","","Kow Chuen Chang","","1 CS 396/8 project","","","","2022-06-14T13:46:56-04:00"
 "",SP,"",,,,0, 4,"","","",,,Full,"","","","","","","Kenneth C Arnold","","CRF","","","","2022-11-05T16:55:39-04:00"
-"",,"",,,,, 8,"","","",,,,"","","","","","","Colin Davison","","Kuyper Seminar","","","","2023-01-20T14:24:13-05:00"
+"",,"",,,,0, 8,"","","",,,Full,"","","","","","","Colin Davison","","Kuyper Seminar","","","","2023-01-20T14:24:13-05:00"
 "Business",FA,"INFO",601,A,600,3, 3,"","","",,,First,"","","","","","Data Wrangling","Keith VanderLinden","","LEC","","","Taught for MBA",""
 "Business",SP,"INFO",602,A,600,3, 3,"","","",,,First,"","","","","","Predictive Analytics","Kenneth C Arnold","","LEC","","","Taught for MBA",""
 "Business",SU,"INFO",603,A,600,3, 3,"","","",,,First,"","","","","","Data Visualization","Patrick Bailey","","LEC","","","Taught for MBA",""
@@ -96,7 +96,7 @@ SB","372
 2:45 PM","140
 65","3:50 PM
 3:50 PM","Programming Lang Concepts","Staff","","","","","","2022-06-10T13:20:27-04:00"
-"Computer Science",SP,"CS",214,C,200,4, 4,"SB 382","MW","6:30PM - 8:20PM",,,Full,"SB","382","6:30 PM","110","8:20 PM","Programming Lang Concepts","David Meyer","","","","","","2023-01-23T13:54:12-05:00"
+"Computer Science",SP,"CS",214,C,200,4, 4,"SB 382","MW","6:30PM - 8:20PM",,,Full,"SB","382","6:30 PM","110","8:20 PM","Programming Lang Concepts","David Meyer","","","","","","2023-01-23T13:55:29-05:00"
 "Computer Science",SP,"CS",232,A,200,4, 4,"SB 343","MWF","8:00AM - 9:05AM",,,Full,"SB","343","8:00 AM","65","9:05 AM","Operating Systems and Networki","Victor T. Norman","","","","","","2022-12-09T17:15:12-05:00"
 "Computer Science",SP,"CS",232,B,200,4, 4,"SB 343","MWF","9:15AM - 10:20AM",,,Full,"SB","343","9:15 AM","65","10:20 AM","Operating Systems and Networki","Victor T. Norman","","","","","","2022-12-09T17:15:35-05:00"
 "Computer Science",FA,"CS",262,A,200,4, 4,"SB 354
@@ -164,7 +164,7 @@ Adam Vedra","Active","LEC","","","","2022-06-14T10:45:02-04:00"
 "Computer Science",SP,"DATA",675,A,600,2, 2,"","","",,,First,"","","","","","Introduction to Deep Learning","Kenneth C Arnold","","","","","","2022-11-24T12:39:51-05:00"
 "Computer Science",SP,"DATA",676,A,600,2, 2,"","","",,,Second,"","","","","","Deep Learning for Text and Generative Models","Kenneth C Arnold","","On-line","","","","2022-11-24T12:40:54-05:00"
 "Computer Science",SU,"DATA",696,A,600,2, 2,"","","",,,Full,"","","","","","Project in Data Science","Staff","","On-line","","","","2022-11-24T12:52:05-05:00"
-"Shadow",SP,"CS",214-S,C-S,200,0, 0,"SB 354","MW","6:30PM - 8:20PM",,,Full,"SB","354","6:30 PM","110","8:20 PM","Programming Lang Concepts","Shadow-Gold","","","","","","2023-01-23T13:54:19-05:00"
+"Shadow",SP,"CS",214-S,C-S,200,0, 0,"SB 354","MW","6:30PM - 8:20PM",,,Full,"SB","354","6:30 PM","110","8:20 PM","Programming Lang Concepts","Shadow-Gold","","","","","","2023-01-23T13:55:34-05:00"
 "Shadow",FA,"CS",332-S,A-S,300,0, 0,"SB 354
 SB 354","MWF
 MWF","9:15AM - 10:20AM
