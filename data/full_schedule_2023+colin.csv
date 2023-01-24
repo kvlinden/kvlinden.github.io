@@ -12,6 +12,8 @@ Department,Term,SubjectCode,CourseNum,SectionCode,CourseLevelCode,MinimumCredits
 "",FA,"",,,,0, 1,"","","",,,Full,"","","","","","","Kow Chuen Chang","","1 CS 396/8 project","","","","2022-06-14T13:46:56-04:00"
 "",SP,"",,,,0, 4,"","","",,,Full,"","","","","","","Kenneth C Arnold","","CRF","","","","2022-11-05T16:55:39-04:00"
 "",,"",,,,0, 8,"","","",,,Full,"","","","","","","Colin Davison","","Kuyper Seminar","","","","2023-01-20T14:24:13-05:00"
+"","SP","",,,,, 4,"","","",,,,"","","","","","","Colin Davison","","CRF","","","","2023-01-24T17:52:50-05:00"
+"","SP","",,,,, 4,"","","",,,,"","","","","","","Colin Davison","","Other teaching","","","","2023-01-24T17:53:09-05:00"
 "Business",FA,"INFO",601,A,600,3, 3,"","","",,,First,"","","","","","Data Wrangling","Keith VanderLinden","","LEC","","","Taught for MBA",""
 "Business",SP,"INFO",602,A,600,3, 3,"","","",,,First,"","","","","","Predictive Analytics","Kenneth C Arnold","","LEC","","","Taught for MBA",""
 "Business",SU,"INFO",603,A,600,3, 3,"","","",,,First,"","","","","","Data Visualization","Patrick Bailey","","LEC","","","Taught for MBA",""
