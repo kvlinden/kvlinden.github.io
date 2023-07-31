@@ -80,23 +80,23 @@ TTH","4:00PM - 6:15PM
 "Computer Science",FA,"CS",212,B,200,4, 4,"SB 382","MWF","9:15AM - 10:20AM",,,Full,"SB","382","9:15 AM","65","10:20 AM","Data Structures & Algorithms","Harry Plantinga","Active","LEC","","","","2022-09-13T16:02:53-04:00"
 "Computer Science",SP,"CS",214,A,200,4, 4,"SB 382
 SB 354","MW
-F","1:30PM - 2:35PM
-1:30PM - 3:50PM",,,Full,"SB
+F","2:45PM - 3:50PM
+2:45PM - 5:05PM",,,Full,"SB
 SB","382
-354","1:30 PM
-1:30 PM","65
-140","2:35 PM
-3:50 PM","Programming Lang Concepts","Staff","","","","","","2022-06-10T13:20:27-04:00"
-"Computer Science",SP,"CS",214,B,200,4, 4,"SB 372
-SB 382","F
-MW","1:30PM - 3:50PM
-2:45PM - 3:50PM",,,Full,"SB
-SB","372
-382","1:30 PM
-2:45 PM","140
-65","3:50 PM
-3:50 PM","Programming Lang Concepts","Staff","","","","","","2022-06-10T13:20:27-04:00"
-"Computer Science",SP,"CS",214,C,200,4, 4,"SB 382","MTH","6:30PM - 8:20PM",,,Full,"SB","382","6:30 PM","110","8:20 PM","Programming Lang Concepts","David Meyer","","","","","","2022-12-15T14:39:08-05:00"
+354","2:45 PM
+2:45 PM","65
+140","3:50 PM
+5:05 PM","Programming Lang Concepts","David Meyer","","","","","","2022-06-10T13:20:27-04:00"
+"Computer Science",SP,"CS",214,B,200,4, 4,"SB 382
+SB 372","MW
+F","4:00PM - 5:05PM
+2:45PM - 5:05PM",,,Full,"SB
+SB","382
+372","4:00 PM
+2:45 PM","65
+140","5:05 PM
+5:05 PM","Programming Lang Concepts","David Meyer","","","","","","2022-06-10T13:20:27-04:00"
+"Computer Science",SP,"CS",214,C,200,4, 4,"SB 382","MTH","6:30PM - 8:20PM",,,Full,"SB","382","6:30 PM","110","8:20 PM","Programming Lang Concepts","Staff","","","","","","2023-07-31T10:11:11-04:00"
 "Computer Science",SP,"CS",232,A,200,4, 4,"SB 343","MWF","8:00AM - 9:05AM",,,Full,"SB","343","8:00 AM","65","9:05 AM","Operating Systems and Networki","Victor T. Norman","","","","","","2022-12-09T17:15:12-05:00"
 "Computer Science",SP,"CS",232,B,200,4, 4,"SB 343","MWF","9:15AM - 10:20AM",,,Full,"SB","343","9:15 AM","65","10:20 AM","Operating Systems and Networki","Victor T. Norman","","","","","","2022-12-09T17:15:35-05:00"
 "Computer Science",FA,"CS",262,A,200,4, 4,"SB 354
