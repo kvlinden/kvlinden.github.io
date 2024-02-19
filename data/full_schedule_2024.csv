@@ -11,10 +11,10 @@ Department,Term,SubjectCode,CourseNum,SectionCode,CourseLevelCode,MinimumCredits
 "",FA,"",,,,0, 1,"","","",,,Full,"","","","","","","Eric Araujo","","1 CS 396/8 project","","","","2024-01-15T17:33:37-05:00"
 "",FA,"",,,,0, 8,"","","",,,Full,"","","","","","","Eric Araujo","","Kuiper Seminar","","","","2024-01-18T15:46:57-05:00"
 "",FA,"",,,,0, 11,"","","",,,Full,"","","","","","","Harry Plantinga","","CCEL","","","","2024-02-15T18:38:19-05:00"
+"",FA,"",,,,0, 2,"","","",,,Full,"","","","","","","Derek C Schuurman","","2 CS 396/8 projects","","","","2024-02-16T09:22:19-05:00"
 "",SP,"",,,,0, 4,"","","",,,Full,"","","","","","","Kenneth C Arnold","","CRF","","","","2022-11-05T16:55:39-04:00"
 "",SP,"",,,,0, 4,"","","",,,Full,"","","","","","","Fernando Pasquini Santos","","Kuiper Seminar","","","","2024-01-10T12:46:13-05:00"
-"","SP","",,,,, 2,"","","",,,,"","","","","","","Derek C Schuurman","","Canada Intensive","","","","2024-02-16T09:00:49-05:00"
-"","FA","",,,,, 2,"","","",,,,"","","","","","","Derek C Schuurman","","2 CS 396/8 projects","","","","2024-02-16T09:22:19-05:00"
+"",SP,"",,,,0, 2,"","","",,,Full,"","","","","","","Derek C Schuurman","","Canada Intensive","","","","2024-02-16T09:00:49-05:00"
 "Computer Science",FA,"*",*,*,,0, 0,"*
 *
 *","MTWTHF
@@ -69,9 +69,9 @@ TTH","4:00PM - 6:15PM
 "Computer Science",FA,"CS",108L,B,100,1, 1,"SB 354","TH","10:20AM - 12:00PM",,,Full,"SB","354","10:20 AM","100","12:00 PM","Intro to Computing Lab","Rocky Chang","","LAB","","","","2022-11-25T12:30:10-05:00"
 "Computer Science",SP,"CS",108L,B,100,1, 1,"SB 354","TH","10:20AM - 12:00PM",,,Full,"SB","354","10:20 AM","100","12:00 PM","Intro to Computing Lab","Rocky Chang","","LAB","","","","2022-11-25T12:52:17-05:00"
 "Computer Science",FA,"CS",112,A,100,4, 4,"SB 382","MWF","11:00AM - 12:05PM",,,Full,"SB","382","11:00 AM","65","12:05 PM","Intro to Data Structures","Victor T. Norman","","","","","","2024-01-09T17:37:19-05:00"
-"Computer Science",SP,"CS",112,A,100,3, 4,"SB 301","MWF","11:00AM - 12:05PM",,,Full,"SB","301","11:00 AM","65","12:05 PM","Intro to Data Structures","Eric Araujo","","","","","","2024-01-22T14:39:55-05:00"
+"Computer Science",SP,"CS",112,A,100,3, 4,"SB 301","MWF","11:00AM - 12:05PM",,,Full,"SB","301","11:00 AM","65","12:05 PM","Intro to Data Structures","Victor T. Norman","","","","","","2024-02-19T13:44:07-05:00"
 "Computer Science",FA,"CS",112,B,100,3, 4,"SB 382","MWF","12:15PM - 1:20PM",,,Full,"SB","382","12:15 PM","65","1:20 PM","Intro to Data Structures","Eric Araujo","","","","","","2024-01-15T17:31:44-05:00"
-"Computer Science",SP,"CS",112,B,100,3, 4,"SB 301","MWF","12:15PM - 1:20PM",,,Full,"SB","301","12:15 PM","65","1:20 PM","Intro to Data Structures","Victor T. Norman","","","","","","2024-01-22T14:40:06-05:00"
+"Computer Science",SP,"CS",112,B,100,3, 4,"SB 301","MWF","12:15PM - 1:20PM",,,Full,"SB","301","12:15 PM","65","1:20 PM","Intro to Data Structures","Eric Araujo","","","","","","2024-02-19T13:44:17-05:00"
 "Computer Science",SP,"CS",112,C,100,3, 4,"NH 253","MWF","1:30PM - 2:35PM",,,Full,"NH","253","1:30 PM","65","2:35 PM","Intro to Data Structures","Cancelled","","","","","","2024-01-22T14:35:36-05:00"
 "Computer Science",FA,"CS",112L,A,100,1, 1,"SB 354","T","8:00AM - 9:40AM",,,Full,"SB","354","8:00 AM","100","9:40 AM","Intro to Data Structures Lab","Eric Araujo","","","","","","2024-01-15T17:32:06-05:00"
 "Computer Science",SP,"CS",112L,A,100,1, 1,"SB 354","T","8:00AM - 9:40AM",,,Full,"SB","354","8:00 AM","100","9:40 AM","Intro to Data Structures Lab","Eric Araujo","","","","","","2024-01-15T17:33:05-05:00"
