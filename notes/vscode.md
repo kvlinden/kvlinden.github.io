@@ -14,7 +14,7 @@ Use [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=t
 | Add cursor at click           | Alt-CLICK             |                               |                       |
 | Add at next selected match    | Ctrl-Alt-d            | **Quarto/RevealJS**           |                       |
 | Add above/below               | Ctrl-Alt-&uarr;/&darr;| Reveal speaker notes          | s                     |
-| Drop cursor                   | ESC                   | Zoom                          | Alt-CLICK             |
+| Drop cursor                   | ESC Ctrl-g            | Zoom                          | Alt-CLICK             |
 |                               |                       |
 | **Navigation**                |                       |
 | GoTo definition               | F12                   |
