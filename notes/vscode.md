@@ -25,7 +25,9 @@ Use [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=t
 |                               |                       |
 
 
-
+Hints:
+- Home: standard+Bitvise
+- School: standard+ssh
 
 
 
