@@ -17,7 +17,7 @@ Use [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=t
 | Drop cursor                   | ESC Ctrl-g            | Zoom                          | Alt-CLICK             |
 |                               |                       |
 | **Navigation**                |                       |
-| GoTo definition               | F12                   |
+| GoTo definition               | F12                   | Toggle line wrap              | Alt-Z                 |
 | Refactor/Rename               | F2                    |
 | Next tab                      | Ctrl-TAB              |
 |                               |                       |
