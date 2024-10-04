@@ -9,11 +9,11 @@ Department,Term,SubjectCode,CourseNum,SectionCode,CourseLevelCode,MinimumCredits
 "",FA,"",,,,0, 4,"","","",,,Full,"","","","","","","Keith VanderLinden","","Chair","","","","2024-09-18T12:43:48-04:00"
 "",FA,"",,,,0, 2,"","","",,,Full,"","","","","","","Harry Plantinga","","2 CS 396/8 projects","","","","2024-10-02T10:36:03-04:00"
 "",FA,"",,,,0, 2,"","","",,,Full,"","","","","","","Fernando Pasquini Santos","","2 CS 396/8 projects","","","","2024-10-02T10:36:24-04:00"
-"",FA,"",,,,0, 12,"","","",,,Full,"","","","","","","Harry Plantinga","","CCEL","","","","2024-10-03T11:23:51-04:00"
 "",FA,"",,,,0, 1,"","","",,,Full,"","","","","","","Rocky Chang","","1 CS 396/8 project","","","","2024-10-03T11:27:06-04:00"
 "",FA,"",,,,0, 1,"","","",,,Full,"","","","","","","Eric Araujo","","1 CS 396/8 project","","","","2024-10-03T11:27:22-04:00"
 "",SP,"",,,,0, 12,"","","",,,Full,"","","","","","","Victor T. Norman","","Sabbatical","","","","2024-05-22T12:40:06-04:00"
 "",SP,"",,,,0, 4,"","","",,,Full,"","","","","","","Derek C Schuurman","","Chair","","","","2024-09-18T12:43:59-04:00"
+"","FA","",,,,, 10,"","","",,,,"","","","","","","Harry Plantinga","","CCEL","","","","2024-10-04T09:19:41-04:00"
 "Computer Science",FA,"*",*,*,,0, 0,"*
 *
 *","MTWTHF
@@ -130,6 +130,7 @@ SB","372
 "Computer Science",SP,"CS",354,A,300,2, 2,"SB 382","MWF","9:15AM - 10:20AM",,,Second,"SB","382","9:15 AM","65","10:20 AM","Database Management Systems","Eric Araujo","","","","","","2024-10-03T11:37:50-04:00"
 "Computer Science",FA,"CS",364,A,300,4, 4,"SB 354","MTH","7:00PM - 8:40PM",,,Full,"SB","354","7:00 PM","100","8:40 PM","Computer Security","Brian D Paige
 Adam Vedra","","","","","","2023-11-22T11:29:39-05:00"
+"Computer Science",SP,"CS",372,A,300,2, 2,"SB 382","MWF","9:15AM - 10:20AM",,,First,"SB","382","9:15 AM","65","10:20 AM","Computer Graphics","Harry Plantinga","","","","","","2024-10-04T09:19:10-04:00"
 "Computer Science",FA,"CS",374,A,300,2, 2,"SB 382","MWF","2:45PM - 3:50PM",,,Second,"SB","382","2:45 PM","65","3:50 PM","High Performance Computing","Joel Adams","","","","","","2024-10-03T11:48:09-04:00"
 "Computer Science",SP,"CS",375,A,300,2, 2,"SB 382","MWF","11:00AM - 12:05PM",,,First,"SB","382","11:00 AM","65","12:05 PM","Artificial Intelligence","Kenneth C Arnold","","","","","","2024-09-10T10:38:47-04:00"
 "Computer Science",SP,"CS",375,B,300,2, 2,"SB 382","MWF","12:15PM - 1:20PM",,,First,"SB","382","12:15 PM","65","1:20 PM","Artificial Intelligence","Kenneth C Arnold","","","","","","2024-09-10T10:42:59-04:00"
