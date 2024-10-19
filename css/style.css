@@ -26,7 +26,7 @@ body {
 
 #header .chinese {
     float: left;
-    padding: 0 0 0 0.5em;
+    padding: 0 0 0 1.0em;
 }
 
 #body {
@@ -37,16 +37,16 @@ body {
 }
 
 #body .content {
-    width: 30%;
+    width: 25%;
     min-width: 18em;
     float: left;
     text-align: left;
 }
 
 #body .connect {
-    width: 65%;
-    float:left;
-    padding: 1em 0 0 0.5em;
+    width: 70%;
+    float: left;
+    padding: 1em 0 0 0em;
     font-weight: bold;
 }
 
