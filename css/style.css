@@ -37,14 +37,13 @@ body {
 }
 
 #body .content {
-    width: 30%;
-    min-width: 18em;
+    width: 45%;
     float: left;
     text-align: left;
 }
 
 #body .connect {
-    width: 65%;
+    width: 50%;
     float:left;
     padding: 1em 0 0 0.5em;
     font-weight: bold;
