@@ -38,14 +38,14 @@ body {
 
 #body .content {
     width: 50%;
-    min-width: 18em;
+    min-width: 20em;
     float: left;
     text-align: left;
 }
 
 #body .connect {
     width: 50%;
-    min-width: 18em;
+    min-width: 20em;
     float: left;
     padding: 1em 0 0 0em;
     font-weight: bold;
