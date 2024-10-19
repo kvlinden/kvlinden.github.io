@@ -13,11 +13,13 @@ body {
 
 #header .introduction {
     margin: 0 auto;
+    width: 85%;
     min-height: 4em;
     padding: 0.5em;
 }
 
 #header .english {
+    width: 30%;
     min-width: 18em;
     float: left;
     text-align: left;
@@ -32,16 +34,19 @@ body {
 #body {
     clear: both;
     margin: 0 auto;
+    width: 85%;
     background-color: #FFFFFF;
 }
 
 #body .content {
+    width: 30%;
     min-width: 18em;
     float: left;
     text-align: left;
 }
 
 #body .connect {
+    width: 65%;
     float:left;
     padding: 1em 0 0 2em;
     font-weight: bold;
